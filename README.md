@@ -3,7 +3,7 @@ I am Julien, I live in the south of France, I am a student web developer at Open
 
 Actually:
 
-- 🔭 I am currently working on project 3 of the web developer training at Openclassrooms.
+- 🔭 I am currently working on project 4 of the web developer training at Openclassrooms.
 - 🌱 I’m currently learning amazing things ...
 - ⚡ Fun fact: I'm passionate about development, handyman, video game player and mechanic.
 <!-- - 📫 How to reach me: email -->
