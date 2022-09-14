@@ -1,11 +1,11 @@
 # JulienCod
-I am Julien, I live in the south of France, I am a student web developer at Openclassrooms.
+I am Julien, I live in the south of France.
 
 Actually:
 
-- 🔭 I am currently working on project 7 of the web developer training at Openclassrooms.
+- 🔭 I'm a Junior Web Developer.
 - 🌱 I’m currently learning amazing things ...
-- ⚡ Fun fact: I'm passionate about development, handyman, video game player and mechanic.
+- ⚡ Fun fact: I am passionate about development, 3d printing, DIY, video game player and mechanic
 <!-- - 📫 How to reach me: email -->
 
 
@@ -34,16 +34,16 @@ https://julien-crutain.vercel.app/
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding-right:10px;" />
-</br>
+<!--</br>-->
 
-### languages and tools I want to learn:
+<!--### languages and tools I want to learn:-->
 
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 
-</br>
+</br>  
 
 ### ⭐ GitHub Stats
 
