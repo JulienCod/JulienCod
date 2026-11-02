@@ -49,4 +49,4 @@ https://juliencrutain.ovh/
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JulienCod&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=JulienCod&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulienCod&layout=compact&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JulienCod&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=JulienCod&langs_count=6&theme=dark)
