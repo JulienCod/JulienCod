@@ -47,7 +47,6 @@ https://juliencrutain.ovh/
 
 ### ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JulienCod)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JulienCod&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=JulienCod&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulienCod&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulienCod&layout=compact&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
